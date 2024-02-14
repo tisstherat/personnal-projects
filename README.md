@@ -1,2 +1,5 @@
 # personnal-projects
-Any project I make for fun, often simple C programs
+Hello
+I am Tiss ! 
+This is where my personnal projects are ! 
+Those are mainly short C programs !
